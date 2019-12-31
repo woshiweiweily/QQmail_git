@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47215" started-at="2019-12-20T05:44:20Z" finished-at="2019-12-20T05:45:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47215" started-at="2019-12-20T05:44:20Z" finished-at="2019-12-20T05:45:08Z">
+      <class name="test.NewTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.NewTest@3ecf72fd]" name="beforeTest" is-config="true" duration-ms="36488" started-at="2019-12-20T13:44:20Z" finished-at="2019-12-20T13:44:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:test.NewTest@3ecf72fd]" name="loginTest" duration-ms="3431" started-at="2019-12-20T13:44:57Z" finished-at="2019-12-20T13:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="sendmailTest()[pri:0, instance:test.NewTest@3ecf72fd]" name="sendmailTest" duration-ms="6608" started-at="2019-12-20T13:45:00Z" finished-at="2019-12-20T13:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendmailTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.NewTest@3ecf72fd]" name="afterTest" is-config="true" duration-ms="680" started-at="2019-12-20T13:45:07Z" finished-at="2019-12-20T13:45:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
